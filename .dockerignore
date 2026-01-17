@@ -1,0 +1,39 @@
+# Example folder
+example/
+
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.tar.gz
+*.tgz
+*.bz2
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Other
+.DS_Store
+*.log
